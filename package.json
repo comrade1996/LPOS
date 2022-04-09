@@ -29,7 +29,7 @@
         "font-awesome": "^4.7.0",
         "laravel-vue-pagination": "^2.2.0",
         "loaderjs": "^1.0.0",
-        "moment": "^2.24.0",
+        "moment": "^2.29.2",
         "sweetalert2": "^8.0.5",
         "toastr": "^2.1.4",
         "v-tostini": "^1.0.0",
